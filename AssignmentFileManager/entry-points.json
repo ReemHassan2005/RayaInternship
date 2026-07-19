@@ -1,0 +1,26 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "d8e834c9-9870-43fa-a11a-28163df5204d",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_OutputFolderPath": {
+            "type": "string",
+            "x-default-expression": "@\"C:\\Users\\reema\\Downloads\\Dummy Files\\Output\"",
+            "default": "C:\\Users\\reema\\Downloads\\Dummy Files\\Output"
+          },
+          "in_InputFolderPath": {
+            "type": "string",
+            "x-default-expression": "@\"C:\\Users\\reema\\Downloads\\Dummy Files\\Input\"",
+            "default": "C:\\Users\\reema\\Downloads\\Dummy Files\\Input"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}
