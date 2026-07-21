@@ -1,0 +1,71 @@
+﻿Course 1
+==========================
+Title: Beginning C++ Programming - From Beginner to Beyond
+Author: Tim Buchalka's Learn Programming Academy
+Rating: 4.5
+Price: E£689.99
+
+
+Course 2
+==========================
+Title: Learn C++ Programming -Beginner to Advance- Deep Dive in C++
+Author: Abdul Bari
+Rating: 4.6
+Price: E£349.99
+
+
+Course 3
+==========================
+Title: The Complete C++ Developer Course
+Author: Codestars • over 2.5 million students worldwide!
+Rating: 4.6
+Price: E£349.99
+
+
+Course 1
+==========================
+Title: Beginning C++ Programming - From Beginner to Beyond
+Author: Tim Buchalka's Learn Programming Academy
+Rating: 4.5
+Price: E£689.99
+
+
+Course 2
+==========================
+Title: Learn C++ Programming -Beginner to Advance- Deep Dive in C++
+Author: Abdul Bari
+Rating: 4.6
+Price: E£349.99
+
+
+Course 3
+==========================
+Title: The Complete C++ Developer Course
+Author: Codestars • over 2.5 million students worldwide!
+Rating: 4.6
+Price: E£349.99
+
+
+Course 1
+==========================
+Title: Beginning C++ Programming - From Beginner to Beyond
+Author: Tim Buchalka's Learn Programming Academy
+Rating: 4.5
+Price: E£689.99
+
+
+Course 2
+==========================
+Title: The Complete C++ Developer Course
+Author: Codestars • over 2.5 million students worldwide!
+Rating: 4.6
+Price: E£349.99
+
+
+Course 3
+==========================
+Title: Learn C++ Programming -Beginner to Advance- Deep Dive in C++
+Author: Abdul Bari
+Rating: 4.6
+Price: E£349.99
+
